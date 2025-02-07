@@ -1,0 +1,32 @@
+(base) pankaja@PANKAJA-ROG:~/projects/CS2023-Data-Structures-and-Algorithms/Sorting/inClassLab2$ ./main
+Array size: 100
+Bubble Sort took 0.000079 seconds
+Optimized Bubble Sort took 0.000071 seconds
+Selection Sort took 0.000027 seconds
+Insertion Sort took 0.000017 seconds
+
+Array size: 500
+Bubble Sort took 0.001476 seconds
+Optimized Bubble Sort took 0.001025 seconds
+Selection Sort took 0.000246 seconds
+Insertion Sort took 0.000191 seconds
+
+Array size: 1000
+Bubble Sort took 0.003619 seconds
+Optimized Bubble Sort took 0.003973 seconds
+Selection Sort took 0.000973 seconds
+Insertion Sort took 0.000722 seconds
+
+Array size: 5000
+Bubble Sort took 0.099566 seconds
+Optimized Bubble Sort took 0.101696 seconds
+Selection Sort took 0.023222 seconds
+Insertion Sort took 0.018063 seconds
+
+Array size: 10000
+Bubble Sort took 0.419919 seconds
+Optimized Bubble Sort took 0.412732 seconds
+Selection Sort took 0.096802 seconds
+Insertion Sort took 0.073021 seconds
+
+(base) pankaja@PANKAJA-ROG:~/projects/CS2023-Data-Structures-and-Algorithms/Sorting/inClassLab2$ 
