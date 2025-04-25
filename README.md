@@ -11,14 +11,25 @@ This repository contains my work for the **CS2023 - Data Structures and Algorith
 - **Credits**: 3 GPA
 ---
 
-## 🎯 Learning Outcomes
+## 📆 Weekly Topics 
 
-Upon completion of this module, students should be able to:
+| Week | Topic                                 |
+|------|---------------------------------------|
+| 01   | Introduction to Algorithms & Flowcharts |
+| 02   | Complexity Analysis I                 |
+| 03   | Recursion & Divide and Conquer        |
+| 04   | Analyzing Recursion (Master Theorem)  |
+| 05   | Basic Data Structures                 |
+| 06   | Binary Search Trees                   |
+| 07   | Heap Data Structure & Heapsort        |
+| 08   | Hash Tables                           |
+| 09   | Graphs                                |
+| 10   | Minimum Spanning Trees                |
+| 11   | Single-Source Shortest Path           |
+| 12   | Algorithm Design Techniques           |
 
-1. Analyze the complexity of basic algorithms
-2. Implement and use common data structures
-3. Select appropriate data structures and algorithms for a given situation
-4. Apply basic algorithm design techniques for a given situation
+---
+
 
 ---
 
@@ -58,24 +69,6 @@ CS2023-DSA/
 
 ---
 
-## 📆 Weekly Topics (Planned)
-
-| Week | Topic                                 |
-|------|---------------------------------------|
-| 01   | Introduction to Algorithms & Flowcharts |
-| 02   | Complexity Analysis I                 |
-| 03   | Recursion & Divide and Conquer        |
-| 04   | Analyzing Recursion (Master Theorem)  |
-| 05   | Basic Data Structures                 |
-| 06   | Binary Search Trees                   |
-| 07   | Heap Data Structure & Heapsort        |
-| 08   | Hash Tables                           |
-| 09   | Graphs                                |
-| 10   | Minimum Spanning Trees                |
-| 11   | Single-Source Shortest Path           |
-| 12   | Algorithm Design Techniques           |
-
----
 
 ## 📌 Notes
 
