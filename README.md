@@ -9,12 +9,6 @@ This repository contains my work for the **CS2023 - Data Structures and Algorith
 
 - **Module Code**: CS2023
 - **Credits**: 3 GPA
-- **Lecturers**:
-  - Dr. Uthayasanker Thayasivam (Weeks 1–7)
-  - Dr. Nisansa de Silva (Weeks 8–12)
-- **Teaching Assistants**: [List of TAs provided in LMS]
-- **Pre-requisites**: None
-
 ---
 
 ## 🎯 Learning Outcomes
@@ -87,8 +81,6 @@ CS2023-DSA/
 
 - Weekly quizzes and labs are tied to the covered topics.
 - This repo will be updated weekly with new content.
-- Email communication for assignment issues should follow LMS guidelines.
-
 ---
 
 ## 🧠 References
